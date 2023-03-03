@@ -1,0 +1,1 @@
+document.querySelector(".destinationslist").addEventListener("click", (e) =>)
